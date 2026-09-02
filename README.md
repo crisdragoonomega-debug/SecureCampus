@@ -25,3 +25,6 @@ echo
 
 ## Equipo
 - CRISTIAN DE LA CRUZ ESPINOSA
+
+## Seguridad
+SecureCampus será desarrollado siguiendo prácticas de Secure SDLC.
