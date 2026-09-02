@@ -9,7 +9,7 @@ Diseñar, construir, asegurar, probar y documentar una aplicación aplicando pr�
 ## Equipo
 
 - CRISTIAN DE LA CRUZ ESPINOSA
-- ANNETE SANCHEZ ALAMO
+
 
 ## Seguridad
 
